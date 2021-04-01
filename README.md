@@ -1,7 +1,7 @@
 # Spotify Duplicate Tracks
 Find duplicate tracks in Spotify playlists.
 
-Spotify Duplicate Track is used to find duplicate tracks in a Spotify playlist. The Spotify web client doesn't prompt users to `Skip duplicate` or `Add duplicate` when adding duplicate track to a playlist like the desktop and mobile clients. This can lead users to unknowingly add multiple copies of the same track to a playlist. This script can help users find these tracks.
+Spotify Duplicate Track is used to find duplicate tracks in a Spotify playlist. The Spotify web client doesn't prompt users to `Skip duplicate` or `Add duplicate` when adding a duplicate track to a playlist, the desktop and mobile clients do. This can lead users to unknowingly add multiple copies of the same track to a playlist. This script can help users find these tracks.
 
   - Only user library read permission is granted, so no changes will be made to your account.
   - Shows only playlists you own.
